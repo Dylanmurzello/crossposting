@@ -1,0 +1,61 @@
+                     reddit = praw.Reddit(client_id="adHkTlhpcAg1dQ",
+                     client_secret="cNBOULeEhmojTVYKj9wBjeGONWkN_Q",
+                     password="Pitiful_Assumption_5",
+                     user_agent="posted by u/Pitiful_Assumption_5",
+                     username="Pitiful_Assumption_5")
+
+
+                     reddit = praw.Reddit(client_id="ZFz_L5NdBD6A3A",
+                     client_secret="-Rjm3o08M9U65-hMZfYFj1u1KbTJfA",
+                     password="OldCourage3784",
+                     user_agent="posted by u/OldCourage3784",
+                     username="OldCourage3784")
+
+                     reddit = praw.Reddit(client_id="dHqzljQEF6f6Nw",
+                     client_secret="o8sOAtSyqdw6L4x1A5gWWrZeg3cCeA",
+                     password="SectionFirst7152",
+                     user_agent="posted by u/SectionFirst7152",
+                     username="SectionFirst7152")
+
+
+                     reddit = praw.Reddit(client_id="Ib-Tj8cVP1bMRA",
+                     client_secret="agpgKzmEolAX60x3xAjzTavUUZENig",
+                     password="PomeloOtherwise1626",
+                     user_agent="posted by u/lPomeloOtherwise1626",
+                     username="PomeloOtherwise1626")
+
+
+
+                     reddit = praw.Reddit(client_id="0UK5bAQCU-eK_g",
+                     client_secret="hX8IC8xR21ZdPUTCUn6W_eqGW9aTtA",
+                     password="Interesting-Let-3843",
+                     user_agent="posted by u/Interesting-Let-3843",
+                     username="Interesting-Let-3843")
+
+
+                     reddit = praw.Reddit(client_id="3Cbl7yOyw-YFvA",
+                     client_secret="YAa_bPjDVMILNFqzZelFVzP8nJZ8xw",
+                     password="Street_Scar_9576",
+                     user_agent="posted by u/Street_Scar_9576",
+                     username="Street_Scar_9576")
+
+
+                     reddit = praw.Reddit(client_id="RAJXA-zjCQaCgQ",
+                     client_secret="cuuw-x7XQWlz-mjDw1-29B-jAoAqHA",
+                     password="PossessionBig4139",
+                     user_agent="posted by u/PossessionBig4139",
+                     username="PossessionBig4139")
+
+
+                     reddit = praw.Reddit(client_id="k-xzfSSC9frd7Q",
+                     client_secret="ly_R-Fz1D35mT9O5vWVhgMCoHrfA6A",
+                     password="Massive_Cheesecake_3",
+                     user_agent="posted by u/Massive_Cheesecake_3",
+                     username="Massive_Cheesecake_3")
+                     
+
+                    reddit = praw.Reddit(client_id="3Xh6qGrVIS5gAg",
+                     client_secret="O7ImnhotIgujITa4tJMrXIlrS_l7Ag",
+                     password="Jaded_Replacement_36",
+                     user_agent="posted by u/Jaded_Replacement_36",
+                     username="Jaded_Replacement_36")
