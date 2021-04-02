@@ -8,7 +8,7 @@ from sys import exit
 
 reddit = praw.Reddit(client_id="dHqzljQEF6f6Nw",
                      client_secret="o8sOAtSyqdw6L4x1A5gWWrZeg3cCeA",
-                     password="SectionFirst7152",
+                     password="dHqzljQEF6f6Nw",
                      user_agent="posted by u/SectionFirst7152",
                      username="SectionFirst7152")
 
